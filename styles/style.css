@@ -7,7 +7,7 @@ font-family: 'Helvetica Neue', Arial, sans-serif;
 
 .logo {
 width: 228px;
-height: 32px; ;
+height: 32px;
 }
 
 .logo_place_header {
@@ -21,7 +21,7 @@ left: 64px;
 height: 100vh;
 min-height: 600px;
 max-height: 756px;
-background-color:#f2f2f2  ;
+background-color:#f2f2f2;
 position: relative;
 display:flex;
 align-items:center;
@@ -136,7 +136,7 @@ margin-bottom: 20px;
 width: 60%;
 display: block;
 margin-left: auto;
-margin-right: auto
+margin-right: auto;
 }
 
 .section-title__paragraph {
@@ -286,7 +286,7 @@ text-align: center;
 font-size: 24px;
 font-style: normal;
 line-height: 34px;
-width: 60%
+width: 60%;
 }
 
 .table_theme_dark{
@@ -377,7 +377,7 @@ font-size: 18px;
 font-style: normal;
 line-height: 25px;
 margin-top: 18px;
-margin-bottom: 18px ;
+margin-bottom: 18px;
 }
 
 .footer__column__content_info {
