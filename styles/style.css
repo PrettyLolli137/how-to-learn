@@ -363,7 +363,7 @@
 }
 
 .footer__column-link {
-  color          : #ffffff;
+  color           : white;
   text-decoration: none;
   font-size      : 18px;
   font-style     : normal;
@@ -371,7 +371,7 @@
 }
 
 .footer__column-links {
-  color          : #ffffff;
+  color           : white;
   margin         : 0;
   padding        : 0;
   text-decoration: none;
