@@ -1,5 +1,7 @@
 .techniques {
-  margin: auto;
-  background-color: white;
+  border: solid red;
+margin: 0 auto;
+background-color: white;
+
 width: 80%;
 }
