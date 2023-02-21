@@ -1,6 +1,14 @@
 .resources__link {
   margin: 0;
   padding: 0;
-border: solid red;
-
+  width: 270px;
+  height: 38px;
+display: block;
+opacity: 1;
+transition: 0.4;
 }
+
+.resources__link:hover {
+  opacity: 0.5;
+
+  }
