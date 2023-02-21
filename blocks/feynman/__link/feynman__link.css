@@ -11,7 +11,7 @@
   line-height    : 51px;
   text-decoration: none;
   opacity        : 1;
-  transition     : opacity 0.4;
+  transition     : opacity 0.4s;
 }
 
 .feynman__link:hover {

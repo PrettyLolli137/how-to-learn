@@ -7,7 +7,7 @@
   font-weight    : normal;
   text-decoration: none;
 opacity: 1;
-transition: 0.4;
+transition: 0.4s;
 }
 
 .khan__buy-link:hover {
