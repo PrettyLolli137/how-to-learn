@@ -6,11 +6,11 @@
   font-size      : 30px;
   font-weight    : normal;
   text-decoration: none;
-opacity: 1;
-transition: 0.4s;
+  opacity        : 1;
+  transition     : 0.4s;
 }
 
 .khan__buy-link:hover {
-opacity: 0.5;
+  opacity: 0.5;
 
 }
