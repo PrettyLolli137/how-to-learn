@@ -6,4 +6,8 @@
   width           : 568px;
   height          : 568px;
   z-index         : 0;
+  animation-name           : rotation;
+  animation-duration       : 20s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
 }
